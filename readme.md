@@ -6,7 +6,8 @@ Simple program written in GO to simulate windows maintenances pausing and unpaus
 It is my first program in GO and I have make it rushed, so less complaints and more PR's!!
 
 ## install
-You can clone this repo, install go and build it or you can download the linux precompiled binary.
+You can clone this repo, install go and build it or you can download [the linux / mac precompiled binary](https://github.com/mrmilu/pwmm/releases/tag/v0.0.1).
+
 
 
 ## how to use
